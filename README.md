@@ -4,7 +4,7 @@
 
 
 ```python
-import pygame
+import pygame.
 Línea 1: Importa la librería Pygame, que es necesaria para crear juegos en Python.
 
 Python

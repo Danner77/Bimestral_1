@@ -10,7 +10,7 @@ ALTURA_VENTANA = 600
 COLOR_FONDO = (255, 255, 250)
 PANTALLA = pygame.display.set_mode((ALTURA_VENTANA, ANCHURA_VENTANA))
 
-# buleano de gestión del bucle
+# buleano de gestión del bucle.
 PARAR_JUEGO = False
 
 # Variables COHETE
